@@ -1,0 +1,9 @@
+go mod init github.com/yourorg/dionisio
+go get github.com/jackc/pgx/v5@latest
+go get github.com/redis/go-redis/v9@latest
+go get google.golang.org/grpc@latest
+go get google.golang.org/protobuf@latest
+go get github.com/sashabaranov/go-openai@latest
+go get github.com/aws/aws-sdk-go-v2/config@latest
+go get github.com/aws/aws-sdk-go-v2/service/s3@latest
+go mod tidy

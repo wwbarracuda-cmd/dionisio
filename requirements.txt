@@ -1,0 +1,23 @@
+# Core
+
+# Autocorrezione (opzionale ma consigliata)
+pyspellchecker>=0.7.0
+
+# Dialogflow (opzionale)
+google-cloud-dialogflow>=2.18.0
+
+# Utility
+python-dotenv>=1.0.0
+
+#dionisio
+#main                 # Funzione speak() principale
+#config              # VOICE_FILE, TTS_ENGINE, CACHE_DIR
+#tts_cache        # Decoratore @tts_cache
+#gradio_ui          # Interfaccia web
+#requirements.txt        # Dipendenze
+#tts_cache             # Cartella cache (creata automaticamente)
+
+
+TTS>=0.21.0
+gradio>=4.0.0
+torch>=2.0.0       # per Coqui + GPU

@@ -1,0 +1,10 @@
+# 1. Genera codice gRPC
+protoc --go_out=. --go-grpc_out=. proto/dionisio/v1/service.proto
+
+# 2. Avvia con variabili d'ambiente
+export DATABASE_URL="postgres://user:pass@localhost:5432/dionisio?sslmode=disable"
+export REDIS_URL="localhost:6379"
+export OPENAI_API_KEY="sk-..."
+export AWS_REGION="eu-west-1"
+
+go run ./cmd/dionisio

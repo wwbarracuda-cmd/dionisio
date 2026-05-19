@@ -1,0 +1,18 @@
+syntax = "proto3";
+package dionisio.v1;
+option go_package = "github.com/yourorg/dionisio/proto/dionisio/v1;v1";
+
+service DionisioService {
+  rpc Authenticate(AuthRequest) returns (AuthResponse);
+  rpc CreatePayment(PaymentRequest) returns (PaymentResponse);
+  rpc GenerateAI(AIRequest) returns (AIResponse);
+}
+
+message AuthRequest { string email = 1; string password = 2; }
+message AuthResponse { string access_token = 1; string refresh_token = 2; int64 expires_at = 3; }
+
+message PaymentRequest { string user_id = 1; int64 amount_cents = 2; string currency = 3; string idempotency_key = 4; }
+message PaymentResponse { string intent_id = 1; string status = 2; string client_secret = 3; }
+
+message AIRequest { string prompt = 1; string model = 2; float temperature = 3; }
+message AIResponse { string content = 1; float latency_ms = 2; int32 tokens_used = 3; }

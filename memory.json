@@ -1,0 +1,53 @@
+{
+  "name": "",
+  "log": [
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "he",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    },
+    {
+      "input": "ciao",
+      "output": "Non sono sicuro di aver capito. Puoi ripetere o riformulare?"
+    }
+  ]
+}

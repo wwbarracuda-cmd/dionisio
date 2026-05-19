@@ -1,0 +1,7 @@
+gcloud builds submit --tag europe-docker.pkg.dev/$PROJECT_ID/dionisio/dionisio:latest
+gcloud run deploy dionisio \
+  --image europe-docker.pkg.dev/$PROJECT_ID/dionisio/dionisio:latest \
+  --region europe-west1 \
+  --port 9090 \
+  --allow-unauthenticated \
+  --set-env-vars DATABASE_URL=$DB_URL,REDIS_URL=$REDIS_URL,OPENAI_API_KEY=$AI_KEY

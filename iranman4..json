@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iranman4-cxdk",
+  "private_key_id": "6fb3d4ff794d254a4d1fbab885d147253f288dc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDma2sWYG5U2W/1\nrz2umLhToAUoPkzgX4EvoP/RPf3vDuljT8Pl6BdADcWoOAbu3kReUzmDeJbD9Sea\nPbSY8vQQkWo8HpqFADANd4BhuhEmU3IsBac9Q2GwBSpAM0c0xhhKOUgM9zbEtnMJ\n/r0/WVqgiNgBW6bMwab9u9ZtTzpXvfANuGsJhhF+2/vk2LhIgjYzho/Uav9us2N0\n8Nx5Q//Fod7Xk3DMGQCEtk4MTfNG43v0WnTW3blMBZg3ORBmvuR/oSxYnlJHGH9e\nS3cAQUAEVy74JHs/ps4PY6d4OPrZ5cJqD8JNoLjyheOWQ1X0VeqYkuui5/x/xiJ/\n/D+AwgFrAgMBAAECggEAAlikVdf+3PJR3N3p8jXaj/oYfgO/DfyATkHaGQFZQpk+\nRc/xc2KHn2lZ0pAE0g3arbM0lLgiS4swL2E4I46Qbv1sEtdPmicZq37ErzoRI/jE\nOC/ejMB7kCqdTDC5euTBfo/9bH8KmbovNbItryVzx3VdQwuciTKM8Wx7jyVit138\nzpvHlBPCIyIf3R2jzDNinl8/ivcezaSIyzU4RF8HhrJoOAr2m62LFTKvI+Iwizmb\nEz7t/5iGXeAeQx18ZVGlOZR+cMOCTTaYn/9SMUsMc/VJTvQnSZadDPh7SHFjCrGw\ng9hqed/7byvDQknvjrTZsICOqOYz7CFnoSiLCKfIYQKBgQD8aFxQlzK4jU2p2anP\nVWrCtJqUjTCYsg9AQ+zvG7L1Xiqt2ddYKCYK9S9XPD/Rbquh/76fXR1TOIl3KGSN\np2GerAKeKmtL2wtVIJiiidfa8eiR9UPu1TrEvpCd4YhiWsKyPiXIYWWing3zSaLs\nD6BK953YAcWCrprXxENdZJoGyQKBgQDpsvHl0XYL4NUI78DYYypRUbTGAGNovvDy\n9GYUI8hSHhe0A+46aI7tWSSg661MAt68us8EVLlAlXkB5T2NsQbg2VqFALI7mHZW\ng0gcmkBRP8x/QLfK6paAI/4pM7cv3bzQKHzn6Lr39yyVvv9ajuDyvP6a3vMajWY0\nhfMehHE8kwKBgEm+B7J36hanGdiUwhrT/sPx1fOuqFMEOpZxAej9s7QiFeAC8/pK\niIrNBU68SHzck4JZ4IxYvPeSXf8VKwODsm6UHJOvGvfngBEX2+Ao24qZAHScLoO5\nglj2v/OQb7MkhxtiMtGvOu1etf6tNc835YHhhBkWs2ixsIV3TqMbgDCZAoGAIaib\nPG1pohZUuH/Hd6L4slOhRK9Dog92Jpfap+XrcSBSa6PxSMpMY5TmOKMZB4yWRfpl\n3IrTT6D3l7VLoz+u7O2BIwzRntG7oYQw+6Wfw9P7gQxyLDCTUotcjNSc+rDmA9kA\n/GnBm/smmb6zinhvn6ZmySl5PAbHhKMSO//5Sy8CgYEA0wyl1sIQ7E4Ghr4zkXWH\nyBs5VAiYJUR9ELv8eZeZvDCje8AVPvQfZLtBjjeEc5xx/u/wqb4U7kKr/0YgMV7P\nnpedxhilio6AI3nQwTVsJOH5KlHvEpqOYnoUmzuAa0OeWaSe2JiztQ1yoHeZ9AkR\nUMGvG8Owthz1tfzT7Va+Ae4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iranman4voce@iranman4-cxdk.iam.gserviceaccount.com",
+  "client_id": "105102761001543207094",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iranman4voce%40iranman4-cxdk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

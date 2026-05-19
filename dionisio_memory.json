@@ -1,0 +1,26 @@
+{
+  "log": [
+    {
+      "input": "ha quasi aperto le",
+      "output": "Scusa, ho avuto un problema tecnico. Riprova tra un momento."
+    },
+    {
+      "input": "hanno un piano gratuito di servizi potrebbe essere una buona idea per vedere se la velocità migliore vuoi che ti dia qualche informazione in più su come iniziare",
+      "output": "Scusa, ho avuto un problema tecnico. Riprova tra un momento."
+    },
+    {
+      "input": "dimmi pure su cosa vuoi ragionare qual è la prossima cosa che ti viene in mente qua mi stai dicendo cosa devo fare un problema tecnico e riprovato trova tra un momento",
+      "output": "Scusa, ho avuto un problema tecnico. Riprova tra un momento."
+    },
+    {
+      "input": "è riuscito a scaricare il pacchetto standard dal sito code gui",
+      "output": "Scusa, ho avuto un problema tecnico. Riprova tra un momento."
+    },
+    {
+      "input": "annulla",
+      "output": "Scusa, ho avuto un problema tecnico. Riprova tra un momento."
+    }
+  ],
+  "profile": {},
+  "settings": {}
+}
